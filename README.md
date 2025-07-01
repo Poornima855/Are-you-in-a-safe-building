@@ -1,10 +1,8 @@
-# Are-you-in-a-safe-building
+# Are-you-in-a-safe-building (Kaggle competition) | 8th Rank - Team: Data_Knights
 
-# 🧠 Image Classification Model (5-Class | PyTorch)
+## Image Classification Model (5-Class | PyTorch)
 
 This repository contains an image classification model built using **Python** and **PyTorch**, capable of classifying images into **five distinct categories**. It includes training, evaluation, visualization, and supports GPU acceleration using CUDA 12.4 and cuDNN.
-
----
 
 ## 🚀 Features
 
@@ -15,8 +13,6 @@ This repository contains an image classification model built using **Python** an
 - 📊 Visualization of loss & accuracy over epochs
 - 💾 Model saving and loading
 - ⚡ Optimized for GPU via CUDA 12.4 + cuDNN
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -29,9 +25,9 @@ This repository contains an image classification model built using **Python** an
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Poornima855/Are-you-in-a-safe-building.git
 
-cd your-repo-name
+cd Are-you-in-a-safe-building
 
 ### 2. Install dependencies
 
@@ -51,3 +47,9 @@ You can easily switch to other pretrained models (EfficientNet, MobileNet, etc.)
 ## 🤝 Contributions
 
 Feel free to open issues or submit pull requests if you'd like to contribute!
+
+## 📄 Need the Full Report?
+
+Interested in the detailed project report or have questions about the approach?
+
+I'd love to hear from you! Reach out at 📧 poornimakatgi855@gmail.com
