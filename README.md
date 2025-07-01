@@ -30,6 +30,7 @@ This repository contains an image classification model built using **Python** an
 ### 1. Clone the repository
 
 git clone https://github.com/your-username/your-repo-name.git
+
 cd your-repo-name
 
 ### 2. Install dependencies
@@ -38,16 +39,15 @@ pip install -r requirementsF_1.txt
 
 ## 📁 Dataset 
 
-The dataset is hosted externally 🔗 Download from here
-Image size: 400x300 (width x height)
-Classes: Five total
+The dataset is hosted externally 🔗 Download from [here](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/poornima2024_iisc_ac_in/Enh7eT8L3UlEhkTQlI2bGw8BsK1-xF40S8fWSiROfWKzLQ?e=LWHeI9)
 
-📌 Notes
+## 📌 Notes
 The model is designed for images sized 400x300 (width x height).
 
 GPU is highly recommended for faster training.
 
 You can easily switch to other pretrained models (EfficientNet, MobileNet, etc.) with minimal changes.
 
-🤝 Contributions
+## 🤝 Contributions
+
 Feel free to open issues or submit pull requests if you'd like to contribute!
