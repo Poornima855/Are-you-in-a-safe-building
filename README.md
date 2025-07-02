@@ -25,9 +25,9 @@ This repository contains an image classification model built using **Python** an
 
 ### 1. Clone the repository
 
-git clone https://github.com/Poornima855/Are-you-in-a-safe-building.git
+git clone https://github.com/Poornima855/Are-you-in-a-safe-building_Imgae_Classifier_Model.git
 
-cd Are-you-in-a-safe-building
+cd Are-you-in-a-safe-building_Image_Classifier_Model
 
 ### 2. Install dependencies
 
@@ -35,7 +35,7 @@ pip install -r requirementsF_1.txt
 
 ## 📁 Dataset 
 
-The dataset is hosted externally 🔗 Download from [here](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/poornima2024_iisc_ac_in/Enh7eT8L3UlEhkTQlI2bGw8BsK1-xF40S8fWSiROfWKzLQ?e=LWHeI9)
+The dataset is hosted externally 🔗 Download from [here](https://indianinstituteofscience-my.sharepoint.com/:f:/g/personal/poornima2024_iisc_ac_in/EnOnM11aD3hFghQap5JmZQ8B8SZDaR3iUvYZgtIjwoeeew?e=WZGeDo)
 
 ## 📌 Notes
 The model is designed for images sized 400x300 (width x height).
